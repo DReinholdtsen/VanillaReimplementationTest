@@ -1,4 +1,4 @@
-package org.example.FluidSim;
+package io.github.togar2.fluids;
 
 import it.unimi.dsi.fastutil.shorts.Short2BooleanMap;
 import it.unimi.dsi.fastutil.shorts.Short2BooleanOpenHashMap;

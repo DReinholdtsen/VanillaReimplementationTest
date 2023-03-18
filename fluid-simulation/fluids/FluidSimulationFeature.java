@@ -13,7 +13,7 @@ public class FluidSimulationFeature implements VanillaReimplementation.Feature {
     @Override
     public void hook(@NotNull HookContext context) {
         // TODO: Use the block-update-system
-        MinestomFluids.init(context.vri().process());
+        FluidManager.init(context.vri().process());
     }
 
     @Override

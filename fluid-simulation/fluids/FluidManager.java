@@ -1,4 +1,4 @@
-package org.example.FluidSim;
+package io.github.togar2.fluids;
 
 import net.minestom.server.MinecraftServer;
 import net.minestom.server.ServerProcess;

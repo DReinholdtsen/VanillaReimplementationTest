@@ -1,4 +1,4 @@
-package org.example.FluidSim;
+package io.github.togar2.fluids;
 
 import net.minestom.server.coordinate.Point;
 import net.minestom.server.instance.Instance;
